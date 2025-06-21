@@ -20,7 +20,7 @@ jobs:
         distribution: 'zulu'
         java-version: '11'
 
-    - name: Gradle Wrapper Oluştur
+    - name: Gradle Wrapper OLUŞTUR
       run: gradle wrapper
 
     - name: Gradle Wrapper'a izin ver
